@@ -22,13 +22,16 @@
    git clone https://github.com/yourusername/KidsAlphaFun.git
 
 2. Navigate to the project directory:
-   cd KidsAlphaFun
 
-3. Install the dependencies:
-  flutter pub get
+         cd KidsAlphaFun
 
-4. Run the app:
-  flutter run
+4. Install the dependencies:
+
+         flutter pub get
+
+6. Run the app:
+
+         flutter run
 
 Usage
 Open the app to view a grid of letters.
