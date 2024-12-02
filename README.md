@@ -59,13 +59,13 @@ Here’s a glimpse of **KidsAlphaFun** in action:
   ![Home Screen](assets/images/home.png)  
 
 - **Letter Example: C**  
-  ![C for Cat](assets/images/C cat.png)  
+  ![C for Cat](assets/images/Ccat.png)  
 
 - **Letter Example: Z**  
-  ![Z for Zoo](assets/images/Z zoo.png)  
+  ![Z for Zoo](assets/images/Zzoo.png)  
 
 - **Letter Example: E**  
-  ![E for Elephant](assets/images/E elephant.png)  
+  ![E for Elephant](assets/images/Eelephant.png)  
 
 ---
 
